@@ -1,0 +1,2 @@
+# StudentDormitoryManagementSystem
+vue.js+Node.js+mongodb制作的一个实现了基本功能的学生宿舍管理系统
